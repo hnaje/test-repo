@@ -4,5 +4,6 @@ public class HelloWorld {
 		System.out.println("HELLO WORLD! -- will be commit 1");
 		System.out.println("THIS IS FROM MY BRANCH");
 		System.out.println("TO PULL FROM LOCAL MASTER");
+		System.out.println("confirm changes");
 	}
 }
